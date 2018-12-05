@@ -1,0 +1,17 @@
+{
+  "name": "utility-lab",
+  "version": "1.0.0",
+  "main": "giphy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abid",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
